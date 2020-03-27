@@ -15,7 +15,7 @@ $ npm run client-install
 ### Start the server
 
 ```sh
-$ nm run server
+$ npm run server
 ```
 
 ### Start the client
